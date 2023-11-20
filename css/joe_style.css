@@ -354,7 +354,7 @@ p.num {
 div.generos a {
     font-size: 2.059vh;
     margin-left: 2.353vh;
-    border-radius: 2.059vh;
+    border-radius: 0.588vhvh;
     transition: background 0.3s;
     transition: border-color 0.3.5s;
     color: #ffffff;
